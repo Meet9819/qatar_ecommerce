@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/meetshahsiddhivinayakcreativewitty/Desktop/robustremedy/build/flutter_keyboard_visibility/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/meetshahsiddhivinayakcreativewitty/.gradle/caches/transforms-2/files-2.1/6c27f35847982eae0adb54575ac410ba/core-1.5.0-beta01/res/layout/notification_template_part_time.xml"
+    }
+]
